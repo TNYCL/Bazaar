@@ -1,0 +1,8 @@
+name: CRShop
+author: CRAFTRISE
+version: 1
+main: cr.shop.CRShop
+commands:
+  tüccar:
+    description: Tüccar sistemi
+    aliases: ["tuccar", "shop"]
