@@ -15,7 +15,7 @@ import cr.shop.menu.MainShopMenu;
 import cr.shop.utils.UtilOrder;
 import cr.shop.utils.UtilSkyblock;
 
-public class Tüccar implements CommandExecutor {
+public class Tüccar implements CommandExecutor { // emrecan�n amk
 
 	@Override
 	public boolean onCommand(CommandSender sender, Command cmd, String label, String[] args) {
